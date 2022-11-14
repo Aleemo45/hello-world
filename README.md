@@ -1,3 +1,3 @@
 # hello-world
 Somewhat professional programmer
-Trying to relearn my skills in java
+Trying to learn new skills
